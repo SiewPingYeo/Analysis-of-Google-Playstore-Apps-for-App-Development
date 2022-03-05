@@ -39,7 +39,7 @@ j) Are there applications with high installs and yet low ratings , translating t
  b) How do ad-supported applications and applications with in-app purchases differ in terms of ratings and installation numbers?
  
  
-The flow of this analysis is as follow:
+*The flow of this analysis is as follow:*
 
 1. Basic data exploration and preparation
 2. Data cleaning and data wrangling
