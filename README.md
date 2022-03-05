@@ -6,7 +6,8 @@ optimal business model of an app based on user behaviour through ratings and ins
 set the nature and direction of the app that he/she might want to build.  
 
 
-
+Link to Plotly boxplot for slide 20 
+https://drive.google.com/file/d/1Xk_HrzTgfBxu5URfnT2XaODJdWTBpm6e/view?usp=sharing
 
 
 
