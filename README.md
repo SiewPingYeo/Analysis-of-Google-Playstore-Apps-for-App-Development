@@ -9,9 +9,9 @@ The dataset used in this analysis is obtained through Kaggle , contributed by au
 
 There are many interesting columns that we can explore in the dataset, such as the App Size, Installs, Privacy Policy and App Price. However, for the purpose of this analysis, we will refer to mainly two columns as the metrics to measure an application's success - Rating and Installs/Minimum Installs. In this analysis, a successful application is defined to have high ratings (4.0 - 5.0) and high installation numbers( > 1 million installs).
 
-The goals to be addressed are:
+**The goals to be addressed are:**
 
-1. How do the features of an application affect its success?
+**1. How do the features of an application affect its success?**
 
 a) What are the top app categories in the market?
 
@@ -32,14 +32,15 @@ h) Does having a privacy policy enhances the success of an application?
 i) How does being listed as an Editor's Choice affect the success of an applications? 
 
 j) Are there applications with high installs and yet low ratings , translating to possible user disappointment?
-2. What is an optimal business model of a successful application?
+
+**2. What is an optimal business model of a successful application?**
 
  a) Are successful applications usually free or paid ? 
 
  b) How do ad-supported applications and applications with in-app purchases differ in terms of ratings and installation numbers?
  
  
-*The flow of this analysis is as follow:*
+**The flow of this analysis is as follow:**
 
 1. Basic data exploration and preparation
 2. Data cleaning and data wrangling
