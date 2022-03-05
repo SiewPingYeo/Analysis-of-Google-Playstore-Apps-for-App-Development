@@ -48,7 +48,34 @@ j) Are there applications with high installs and yet low ratings , translating t
 4. Bi-variate and multi-variate exploration to address our goals
 5. Recommendation for App Development
  
- 
+# Recommendation for App Development
+From the above analysis, we can gather some insights for the initial stage of an app development process. This will help to set the direction for the nature of the app that we would like to develop. To achieve the goal of an app having high installs (More than 1 million) and good rating performance ( 4.0 to 5.0), the app should ideally be:
+
+Free
+Standard app size <16
+Content rating for the general population (Everyone/Everyone 10+)
+Runs on minimal android system of 4.4 /5.0
+Well-maintained and updated at least once every 5 months
+Be an Editor's Choice
+Includes a privacy policy especially for categories like Tools, Entertainment, Education and Music where collection of personal and financial information is common
+App categories worth looking into:
+
+Education
+Music
+Books & Reference
+Lifestyle
+Productivity
+Business
+These app categories tend to garner better rating performances.
+
+Although Tool apps are heavily used daily and tend to have high installs and rating counts, users are more critical and likely to give poor ratings when a slight lag or bug disrupt user experience. As observed from the analysis, Tool and Entertainment apps are more inclined to cause user disappointment. Therefore, Tool and Entertainment apps can be avoided unless large amount of resources can be set aside for app maintenance and app performance.
+
+Lastly, the optimal business model for monetization can be:
+
+Free apps
+Includes in-app purchases
+Includes in-app ads
+Having in-app ads is not a deal-breaker for users and they are more likely to download free apps with in-app ads and more willing to spend on in-app purchases than paid apps.
  
  
  
