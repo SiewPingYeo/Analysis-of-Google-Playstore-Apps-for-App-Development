@@ -107,14 +107,6 @@ https://drive.google.com/file/d/1Xk_HrzTgfBxu5URfnT2XaODJdWTBpm6e/view?usp=shari
 
 
 
-
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at yeosiewping@gmail.com
@@ -133,20 +125,12 @@ I'm a an aspiring data analyst, looking forward to tell more stories of the past
 
 
 
-👩‍💻 I'm currently working on...
+
 
 🧠 I'm currently learning Python, SQL, R and Machine Learning
-
-💬 Ask me about...
 
 📫 How to reach me
 yeosiewping@gmail.com
 
 ## 🛠 Skills
 Python, R, SQL 
-
-
-## Lessons Learned
-
-I have learned a lot about data cleaning, wrangling and data visualisation from this project. It has exposed me to the rigour of critical thinking during the EDA needed for the analysis. 
-These skills will be useful in future EDA and machine learning projects which I am looking forward to embark on. 
